@@ -18,6 +18,8 @@ cost more than $2 to complete.
 - You should provide a "challenge.tfvars" file that will guide the challenger in any variables that would
 need to be chosen.  You should hard code sizing into your tfvars files to protect our challengers from 
 overprovisioning resources.
+- You should provide the accompanying variables.tf file to match your tfvars entries.
+- You should verify that a solution is possible.
 - Remind your challengers to destroy their resources when completed.
 
 ### Challenge or Structure issues
