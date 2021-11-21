@@ -22,6 +22,10 @@ Here you'll list the difficulty using t-shirt sizing: Easy, Medium, Hard, Very H
 Here you can estimate the costs building this in a sandbox using t-shirt sizing: Free, $ (less than $1), or $$
 (less than $2).  No challenge should cost more than $2 to deploy. 
 
+### Destroy
+
+Do not forget to destroy your resources when the challenge is completed.
+
 ### Contributing
 
 If you need more details on creating a challenge, please see 
