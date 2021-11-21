@@ -1,4 +1,4 @@
-## Challenge Name
+## Challenge Name Example
 
 This is the example challenge that can be used to create new challenges.  You'll name your challenge something
 sensible.
