@@ -21,6 +21,7 @@ target_group_protocol = ""
 target_group_vpc_id = ""
 
 # Instance
+instance_name_tag = ""
 instance_security_group_name = ""
 instance_ami = ""
 instance_type = "t3a.nano"

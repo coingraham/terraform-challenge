@@ -71,6 +71,11 @@ variable "target_group_vpc_id" {
 
 
 # Instances
+variable "instance_name_tag" {
+  description = "The name for the instance in a tag"
+  type        = string
+}
+
 variable "instance_security_group_name" {
   description = "The name for the instance security group"
   type        = string
