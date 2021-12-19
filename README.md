@@ -10,6 +10,8 @@ Fork the repo and pick the challenge that you're interested in attempting.  You'
 a readme that explains the scenario and the terraform folder and files that you'll need to build in order 
 to complete the challenge.
 
+You can then create a new branch to test your solutions on.
+
 ### Important Note
 
 Building these challenges may incur some costs, the author should provide an estimate of the costs on 
