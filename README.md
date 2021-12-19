@@ -1,6 +1,6 @@
 ## Terraform Challenges
 
-I wanted to create a place for folks that are looking to get into Terraform to have a book of challenges that 
+I wanted to create a place for folks that are looking to get into Terraform to have a book of [challenges](challenges/) that 
 they could try to code in Terraform for practice and mastery of the HCL.  These challenges are related to 
 real life projects that the community has been a part of, not just made up.
 
