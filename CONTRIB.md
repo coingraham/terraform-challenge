@@ -3,7 +3,7 @@
 Thanks for your interest in contributing to the Terraform Challenge page.  My hope is that we can grow the 
 challenges so that folks that are new to terraform will continue to learn using real world projects.
 
-You should start by taking a look at the [example](challenges/example/README.md) challenge and copy the 
+You should start by taking a look at the [example](example/README.md) challenge and copy the 
 approach from that challenge.  I would like all the challenges to be foldered and formatted the same.
 
 In order to contribute, your challenge will need the following aspects:  
