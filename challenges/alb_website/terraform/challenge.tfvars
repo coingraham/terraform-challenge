@@ -4,6 +4,9 @@
 # S3
 alb_logging_bucket_name = ""
 
+# Networking
+vpc_id = ""
+
 # ALB
 alb_name = ""
 alb_security_group_name = ""

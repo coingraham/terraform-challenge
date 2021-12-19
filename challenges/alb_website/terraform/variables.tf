@@ -6,6 +6,13 @@ variable "alb_logging_bucket_name" {
   type        = string
 }
 
+# Networking
+variable "vpc_id" {
+  description = "The id of the VPC"
+  type        = string
+}
+
+
 # ALB
 variable "alb_name" {
   description = "The name for the ALB"
