@@ -1,5 +1,5 @@
 # This file is where you will define your variables
-variable "vpc_name" {
+variable "company_name" {
   type = "string"
 }
 
